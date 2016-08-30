@@ -1,4 +1,9 @@
 /*--Original source https://developers.google.com/youtube/iframe_api_reference--*/
+/**
+ * File: main.js
+ * Type: Javascript component
+ * Author: MICHI CHEN
+ */
 var tag = document.createElement('script');
 tag.src = "https://www.youtube.com/iframe_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];
